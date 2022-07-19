@@ -46,11 +46,11 @@
       },
       "locked": {
         "dir": "main",
-        "lastModified": 1658033150,
-        "narHash": "sha256-Cez+paIvrcSCMMbU+v8yTD1yN3fZbScGRsi9yX4qsLY=",
+        "lastModified": 1658203267,
+        "narHash": "sha256-ifbllXwfB7e6ZHenw7HwnpprVMu+jjH1LXVweyHQ9Qc=",
         "owner": "nim-nix-pkgs",
         "repo": "periapsisengine",
-        "rev": "92d5d3fb0716a97dbb833d2424f2998a629b3e16",
+        "rev": "b4a1c9b8e21b60cf5d21136193e307350ff95e87",
         "type": "github"
       },
       "original": {
