@@ -213,11 +213,11 @@
       },
       "locked": {
         "dir": "main",
-        "lastModified": 1668777271,
-        "narHash": "sha256-/nW+J1Op1809iyreGoPMgSZHQY3ov1Klm6SZupoAR0Y=",
+        "lastModified": 1669432362,
+        "narHash": "sha256-FdeFext6kvR/Qokx0/+r7gkKcOAcRNA2bAz/Q43GZCQ=",
         "owner": "nim-nix-pkgs",
         "repo": "periapsisengine",
-        "rev": "e1f3c3bae806ff65fc6b53e4c00a2fc0cb4d34c2",
+        "rev": "bc9280b97c67b1a42863a06efb642e3d85ce64d8",
         "type": "github"
       },
       "original": {
@@ -251,11 +251,11 @@
       },
       "locked": {
         "dir": "v2_0_14_3",
-        "lastModified": 1660782458,
+        "lastModified": 1669418159,
         "narHash": "sha256-blsOoPHFzj8HStQz61T37Z8jcwAO4dp/J0OQHAuqpYQ=",
         "owner": "nim-nix-pkgs",
         "repo": "sdl2_nim",
-        "rev": "31ac19ec7750a5a4826f64cb9ba6bba7ecad4a59",
+        "rev": "9eed9822a0151d95ff45a3866ea23a161cfdcf89",
         "type": "github"
       },
       "original": {
